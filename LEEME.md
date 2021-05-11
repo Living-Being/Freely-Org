@@ -1,6 +1,6 @@
 Freely-Org
 
-Freely-Org es un software libre y de código abierto (free and open source) 
+Freely-Org es software libre y de código abierto (free and open source) 
 destinado a la redistribución de recursos.
 
 Freely-Org permite a las personas comunicarse, trabajar y compartir libre y voluntariamente 
@@ -10,8 +10,9 @@ Freely-Org es una herramienta para que personas y comunidades puedan resolver ef
 sus necesidades y asi solucionar sus problemas sin la intervención del dinero, la legalidad, 
 la política, los gobiernos, la burocracia y demas recursos no humanos y estructuras ficticias.
 
-EJEMPLO DE CASO:
+`ESTUDIO DE CASO Ana:`
 
+```
    Ana vive en una comunidad remota del interior de Australia llamada Barkdine
 les falta agua debido a un prolongado periodo de sequía. 
 Solicita ayuda para hacer frente a la presente y futura situacion de sequía. 
@@ -36,10 +37,11 @@ La comunidad de Ana es ahora una comunidad contenta, ya tienen suficiente agua y
 para hacer frente a la presente y las futuras sequías. 
 
 Ademas de establecer nuevas conexiones con otras personas maravillosas que se preocupan.
+```
 
+`ESTUDIO DE CASO Sak:`
 
-CASO 2:
-
+```
    Sak se ha sentido desgraciado durante la mayor parte de su vida porque tenía problemas para "encajar", 
 nunca se sintió integrado en su cultura y sociedad. Así que decide marcharse con unos cuantos amigos
 y establecer una pequeña comunidad en una zona remota, viviendo exclusivamente de la tierra. 
@@ -57,4 +59,4 @@ gracias a los principios de la permacultura.
    Incluso hablan una lengua inglesa "no hinchada", en la que han purgado muchos términos que
 no tienen cabida en esta comunidad, como todos los "términos ficticios" como términos legales, 
 términos políticos, términos gubernamentales, ni siquiera tienen uso para el dinero.
-
+```
