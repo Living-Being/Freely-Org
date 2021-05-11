@@ -2,7 +2,7 @@
 
 Free and open source software intended for the redistribution of resources.
 
-Freely-Org enables people to connect, communicate, share and work to fulfill people's needs,
+Freely-Org enables people to connect, communicate, share and work to fulfil people's needs,
 create structures and systems for the betterment of people's life's, freely on a purely
 voluntary basis. Sharing lawful resources legitimately.
 
